@@ -4,13 +4,13 @@ Library: discord.js
 
 Library version: 13.1
 
-#Requirements
+# Requirements
 
 Node.js version >= 16
 
 Mysql server
 
-#How to use
+# How to use
 
 Open cmd on you directory, run command npm i.
 
